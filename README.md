@@ -24,7 +24,7 @@ For installation, simply run the commands below.:
 ```
 sudo su
 cd /tmp
-curl fsSL https://raw.githubusercontent.com/khalilhasanzade/Ubuntu-Automatic-Chromium-WithoutGUI/main/install.sh | sh
+curl fsSL https://raw.githubusercontent.com/hasanzadekhalil/Ubuntu-Automatic-Chromium-WithoutGUI/main/install.sh | sh
 
 ```
 
